@@ -1,12 +1,29 @@
-# OD&H Keylogger - Ethical Educational Resource
+<p align="center">
+  <a href="https://obliviondh.com"><img src="https://raw.githubusercontent.com/ivanbg2004/oblivion-keylogger/main/.github/banner.png" alt="Oblivion Keylogger (Educational) — by Oblivion" width="100%"></a>
+</p>
+
+<h1 align="center">Oblivion Keylogger (Educational)</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/by--Oblivion-FFCC00?style=flat-square" alt="by-Oblivion">
+  <img src="https://img.shields.io/badge/Cybersecurity--%C2%B7--Cloud--%C2%B7--AI-0A0A0A?style=flat-square" alt="Cybersecurity-·-Cloud-·-AI">
+  <img src="https://img.shields.io/badge/License--see--LICENSE-0A0A0A?style=flat-square" alt="License-see-LICENSE">
+  <a href="https://discord.gg/f4mZBU9xS8"><img src="https://img.shields.io/badge/Discord--join-5865F2?style=flat-square" alt="Discord-join"></a>
+</p>
+
+<p align="center"><b>Educational Python keylogger for learning input monitoring and detection techniques. For authorized security research only. By Oblivion.</b></p>
+
+<p align="center">`keylogger` · `python` · `educational` · `security-research` · `malware-analysis` · `blue-team`</p>
+
+---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
-This repository contains a Python-based keylogger developed by Oblivion Development & Hosting (OD&H) for **ethical and educational purposes only**. It is intended to demonstrate the potential risks associated with keylogging and to provide insights into how such tools work.
+This repository contains a Python-based keylogger developed by Oblivion (Oblivion) for **ethical and educational purposes only**. It is intended to demonstrate the potential risks associated with keylogging and to provide insights into how such tools work.
 
-**Important Disclaimer:** This tool should **never** be used for malicious purposes or without explicit consent. OD&H is not responsible for any misuse of this software. By using this code, you agree to use it responsibly and ethically.
+**Important Disclaimer:** This tool should **never** be used for malicious purposes or without explicit consent. Oblivion is not responsible for any misuse of this software. By using this code, you agree to use it responsibly and ethically.
 
 ## Features
 
@@ -20,7 +37,7 @@ This repository contains a Python-based keylogger developed by Oblivion Developm
 
 ## Ethical Considerations
 
-OD&H emphasizes the importance of ethical considerations when working with security tools. This keylogger is provided solely for:
+Oblivion emphasizes the importance of ethical considerations when working with security tools. This keylogger is provided solely for:
 
 *   **Security Awareness Training:** Demonstrating the risks of keylogging to end-users.
 *   **Educational Purposes:** Understanding how keyloggers function and how to defend against them.
@@ -33,8 +50,8 @@ OD&H emphasizes the importance of ethical considerations when working with secur
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ivanbg2004/odh-keylogger.git
-    cd odh-keylogger
+    git clone https://github.com/ivanbg2004/oblivion-keylogger.git
+    cd oblivion-keylogger
     ```
 
 2.  **Install dependencies:**
@@ -94,12 +111,32 @@ Contributions are welcome, but please ensure that all contributions align with t
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## About Oblivion Development & Hosting (OD&H)
+## About Oblivion (Oblivion)
 
-Oblivion Development & Hosting helps individuals and businesses succeed in the digital world with top-tier web development, hosting, and cybersecurity services. We deliver secure, reliable, and innovative tech solutions with transparency and trust.
+Oblivion helps individuals and businesses succeed in the digital world with top-tier web development, hosting, and cybersecurity services. We deliver secure, reliable, and innovative tech solutions with transparency and trust.
 
 *   **Website:** [odh.ivan-vcard.xyz](https://odh.ivan-vcard.xyz)
 
-## OD&H Support
+## Oblivion Support
 
-For support or inquiries, please contact OD&H Customer Support via [OD&H Discord](https://discord.gg/na8gqhQYJR).
+For support or inquiries, please contact Oblivion Customer Support via [Oblivion Discord](https://discord.gg/na8gqhQYJR).
+
+
+
+## ⚠️ Ethical use
+
+Oblivion Keylogger (Educational) is built for **authorized security testing, education and CTFs only**. Use it only on systems you own or have explicit written permission to test. You are responsible for complying with all applicable laws. The authors accept no liability for misuse.
+
+## About Oblivion
+
+Built by [**Oblivion**](https://obliviondh.com) — cybersecurity, cloud and AI. This tool is part of the Oblivion open-source toolkit.
+
+- 🌐 Website: [obliviondh.com](https://obliviondh.com)
+- 🎓 Learn: [Oblivion Academy](https://academy.obliviondh.com)
+- 💬 Community: [Discord](https://discord.gg/f4mZBU9xS8)
+- 🔗 All links: [linktr.ee/ivanbg2004](https://linktr.ee/ivanbg2004)
+- 👤 Author: [Ivan Barnola Gasch](https://www.linkedin.com/in/ivanbg2004/)
+
+<sub>Keywords: keylogger, python, educational, security-research, malware-analysis, blue-team, cybersecurity, ethical-hacking.</sub>
+
+<p align="center"><sub>© 2026 Oblivion. If this project helped you, leave a ⭐ — it helps others find it.</sub></p>
